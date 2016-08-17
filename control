@@ -1,0 +1,9 @@
+Package: com.nathaningraham.snapchatlowpowermodeenabler
+Name: SnapchatLowPowerModeEnabler
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enables experimental low-power snapchat.
+Maintainer: Nathan Ingraham <nathanringraham@gmail.com>
+Author: Nathan Ingraham <nathanringraham@gmail.com>
+Section: Tweaks
