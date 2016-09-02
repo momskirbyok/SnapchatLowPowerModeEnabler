@@ -18,6 +18,19 @@ BOOL userHasSeenTwitter;
 }
 
 
+-(bool)shouldSuspendEarlier{
+	return TRUE;
+}
+
+-(bool)isFeatureOff{
+	return FALSE;
+
+}
+-(bool)shouldTurnOffCameraSooner{
+	return TRUE;
+	
+}
+
 %end
 
 %hook SBHomeScreenViewController
